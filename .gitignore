@@ -1,8 +1,9 @@
 /*
+!screenshots/
 
 !wp-content/
-!.gitignore
-README.md
+.gitignore
+!README.md
 .idea/
 
 wp-content/*
